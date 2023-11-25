@@ -8,7 +8,7 @@
 
 - 💬 Talk to me about Javascript,ReactJS,Algorithms
 
-- 📫 How to reach me **manikprakash1848@gmail.com**
+- 📫 How to reach me **suthishakshi420@gmail.com**
 
 
 
