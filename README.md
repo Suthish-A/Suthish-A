@@ -20,7 +20,7 @@
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suthish-a-7379a7219/"  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/suthish-a-7379a7219"  
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suthish-a" alt="suthish-a" /></a> </p>
 
