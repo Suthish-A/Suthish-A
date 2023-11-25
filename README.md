@@ -18,7 +18,7 @@
 
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=suthish-a&label=Profile%20views&color=0e75b6&style=flat" alt="suthish-a" /> </p>  
+ <p align="left"> <img src="https://www.linkedin.com/in/suthish-a-7379a7219/" alt="suthish-a" /> </p>  
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suthish-a" alt="suthish-a" /></a> </p>
 
