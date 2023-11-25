@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suthish A</h1>
 <h3 align="center">Data Analyst</h3>
-<p align="center">Thank You for taking the time to view my GitHub Profile 😄.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.</p>
+<p align="center">Thank You for taking the time to view my GitHub Profile 😄.As a data enthusiast and analyst, I am passionate about transforming raw data into actionable insights. My GitHub repositories reflect my commitment to data analysis, statistical modeling. I thrive on solving real-world problems using data-driven approaches and collaborating with the open-source community..</p>
 
 
 
