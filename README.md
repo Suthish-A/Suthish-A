@@ -4,9 +4,9 @@
 
 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles
+- 👯 I'm open to collaboration on data analysis projects
 
-- 💬 Talk to me about Javascript,ReactJS,Algorithms
+- 💬 Talk to me about Data Collection,Data Cleaning and Preprocessing,Data Visualization
 
 - 📫 How to reach me **suthishakshi420@gmail.com**
 
